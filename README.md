@@ -30,7 +30,7 @@ By integrating **Watsonx.ai foundation models** through **Prompt Lab**, the chat
 
 ## 📸 Visual Preview
 >![Alt Text](Picture1.jpg)<br>
->![Alt Text](Picture2.png)<br>
+>![Alt Text](Picture2.jpg)<br>
 >![Alt Text](Picture3.jpg)<br>
 >![Alt Text](Picture4.jpg)<br>
 ---
@@ -49,6 +49,7 @@ This chatbot project was developed during my 4-week virtual internship at **IBM 
 > For inquiries, collaborations, or feedback, feel free to connect!
 
 ---
+
 
 
 
